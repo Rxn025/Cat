@@ -22,3 +22,5 @@
 ## 🌐 Why disconnect from VPN and Internet?
 
 Most remote threats (like RATs) require an active internet connection to communicate with their command servers or be on the same local network. Disconnecting cuts off their control path, helping CAT safely terminate them.
+
+G++ Compatible C++.
